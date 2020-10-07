@@ -5,7 +5,7 @@
     "description": "",
     "default_locale": "en",
     "icons": {
-        "128": "./assets/images/sticky_notes_124x124.jpg"
+        "128": "./assets/images/icon_124x124.jpg"
     },
     "background": {
         "scripts": ["./background/background.js"]

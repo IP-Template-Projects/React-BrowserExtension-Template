@@ -78,7 +78,7 @@ module.exports = {
         // @ts-ignore
         new CopyPlugin([
             { from: 'manifest.json', to: 'manifest.json' },
-            { from: 'src/assets', to: 'assets' }
+            { from: 'assets', to: 'assets' }
         ]),
         new MiniCssExtractPlugin({
             filename: '[name]/[name].css'
