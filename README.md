@@ -1,2 +1,3 @@
 # React-BrowserExtension-Template
- Template for a React browser extension 
+
+React Template for creating browser extensions
